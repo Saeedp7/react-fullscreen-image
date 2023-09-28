@@ -4,7 +4,7 @@ div.fullscreen-group {
 div.fullscreen-group::before {
   content: '';
   position: fixed;
-  top: 0;
+  top: 20vh;
   left: 0;
   right: 0;
   bottom: 0;
